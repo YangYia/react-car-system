@@ -5,14 +5,14 @@
 汽车选择页面
 
 
-![image](https://github.com/YangYia/react-car-sell/blob/master/select.jpg)
+![image](https://github.com/YangYia/react-car-system/blob/master/select.jpg)
 多重筛选功能，数据是mock模拟出来的
 
 
 汽车展示页面
 
 
-![image](https://github.com/YangYia/react-car-sell/blob/master/carshow.jpg)
+![image](https://github.com/YangYia/react-car-system/blob/master/carshow.jpg)
 功能和中关村产品展示页面还牛逼.
 该项目采用react,dva,nodejs,mongodb,mockjs开发.
 路由使用的RestFul风格
